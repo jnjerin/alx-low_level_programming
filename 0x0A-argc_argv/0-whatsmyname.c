@@ -2,15 +2,19 @@
 #include <stdio.h>
 
 /**
- * main - print argc
+ * main - print program name
  * @argc: number of arguments
- * @argv: optional argument
- * @__attribute__((unused): keyword to denote optional arg
+ * @argv: arguments (string)
+ *
  * Return: 0 on Success
  */
-int main(int argc, char **argv __attribute__((unused)))
+int main(int argc, char **argv)
 {
-	printf("%d\n", --argc);
+	if (argc)
+	{
+		argc--;
+		printf("%s\n", argv[argc]);
+	}
 
 	return (0);
 }
