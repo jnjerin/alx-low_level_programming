@@ -8,3 +8,5 @@ Projects on C; Low level programming
 | [0x02-functions_and_nested_loops](https://github.com/jnjerin/alx-low_level_programming/tree/main/0x02-functions_nested_loops) | A script that generates the assembly code of a C code and save it in an output file. |
 | [0x0B-malloc_free](https://github.com/jnjerin/alx-low_level_programming/tree/main/0x0B-malloc_free) | 	It aims to learn about automatic and dynamic allocation in C language |
 | [0x0C-more_malloc_free](https://github.com/jnjerin/alx-low_level_programming/tree/main/0x0C-more_malloc_free) |	It aims to learn about how to use malloc, calloc, realloc and exit functions in C language |
+| [0x0D-preprocessor](https://github.com/jnjerin/alx-low_level_programming/tree/main/0x0D-preprocessor) | It aims to learn about how to include guard in the header files and macros in C language |
+| [0x0E-structures_typedef](https://github.com/jnjerin/alx-low_level_programming/tree/main/0x0E-structures_typedef) |	It aims to learn about structures and typedef in C language |
